@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Dayal 👋
 
-<!--
-**oh-ddy/oh-ddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just starting my journey in **mathematics and data science** 📊  
+Right now, I'm focused on learning the basics of **Python** 🐍 and **math for data analysis** ➕➖✖️➗
 
-Here are some ideas to get you started:
+This is my space to practice, grow, and track progress — one step at a time 🚶‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Currently Learning
+- Python (pandas, numpy, matplotlib) 💻
+- Core math concepts (algebra, statistics, logic) 🧮
+- How to work with data — step by step 📥➡️📊
+
+---
+
+## 📬 Reach Me
+- 📧 [dayal@example.com](mailto:dayalwtsbt@gmail.com)  &nbsp; 📱 [Telegram](https://t.me/oh_ddy)
