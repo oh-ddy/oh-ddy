@@ -15,4 +15,4 @@ This is my space to practice, grow, and track progress — one step at a time �
 ---
 
 ## 📬 Reach Me
-- 📧 [dayal@example.com](mailto:dayalwtsbt@gmail.com)  &nbsp; 📱 [Telegram](https://t.me/oh_ddy)
+- 📧 [dayalwtsbt@gmail.com](mailto:dayalwtsbt@gmail.com)  &nbsp; 📱 [Telegram](https://t.me/oh_ddy)
